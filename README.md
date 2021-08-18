@@ -7,4 +7,4 @@ This was quite an enjoyable venture into how buttons work. As per usual I'll hav
 
 [Click here to be redirected to the website I use to create the diagrams](https://crcit.net/c/d4c71b2c881043d4a9328e416d357dfc)
 
-![Image of Diagram](https://raw.githubusercontent.com/avorius1337/images/main/traffic_lights_diagram.jpg)
+![Image of Diagram](https://raw.githubusercontent.com/avorius1337/images/main/led_flash_diagram.jpg)
