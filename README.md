@@ -6,3 +6,5 @@ The basic premise, as said up top, is to make an LED turn on, wait for .25 of a 
 This was quite an enjoyable venture into how buttons work. As per usual I'll have the link to the diagram, and an image of said diagram below.
 
 [Click here to be redirected to the website I use to create the diagrams](https://crcit.net/c/d4c71b2c881043d4a9328e416d357dfc)
+
+![Image of Diagram](https://raw.githubusercontent.com/avorius1337/images/main/traffic_lights_diagram.jpg)
